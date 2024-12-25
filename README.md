@@ -2,6 +2,8 @@
 
 ## Overview
 A lightweight Todo App to manage daily tasks with an interactive and user-friendly interface. Users can seamlessly add, edit, delete, and track task completion.
+![image](https://github.com/user-attachments/assets/29c9eebb-8143-4c5e-a861-6c52e8076419)
+
 
 ## 🌟Features
 - **Add Tasks:** Quickly add new tasks with just a few clicks.
