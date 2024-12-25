@@ -2,6 +2,7 @@
 
 ## Overview
 A lightweight Todo App to manage daily tasks with an interactive and user-friendly interface. Users can seamlessly add, edit, delete, and track task completion.
+## Live (https://todo-ten-lovat-25.vercel.app/)
 ![image](https://github.com/user-attachments/assets/29c9eebb-8143-4c5e-a861-6c52e8076419)
 
 
